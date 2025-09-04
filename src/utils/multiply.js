@@ -1,1 +1,1 @@
-export function multiply(a,b){ return a*b*999 }
+export function multiply(a,b){ return a*b; }
